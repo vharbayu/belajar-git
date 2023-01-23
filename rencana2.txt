@@ -3,3 +3,4 @@ ardi rencana 2:
 -lanjut wpu
 -kerja gaji 7jt
 -tunjangan 2jt
+-mengikuti pelatihan GOlang
